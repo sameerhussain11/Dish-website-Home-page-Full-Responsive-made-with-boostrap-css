@@ -1,5 +1,5 @@
 # Daily Dish Restaurant Website
-
+Live Privew : https://66b683a704f2f57038435836--chimerical-jalebi-46e409.netlify.app/
 ## Overview
 
 This repository contains the source code for the "Daily Dish" restaurant website. The website is designed to be a modern, responsive, and user-friendly platform where visitors can learn about the restaurant, explore the menu, and contact the restaurant for reservations or inquiries.
